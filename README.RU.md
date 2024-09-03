@@ -68,3 +68,4 @@
 - Written by @NikkiKurashov (github)
    - Thank you. I am sorry to forget merge your branch and file. (from jaytwo)
  
+[![Check Links](https://github.com/org/repo/actions/workflows/links.yml/badge.svg)](https://github.com/org/repo/actions/workflows/links.yml)
